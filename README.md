@@ -69,6 +69,7 @@ assign BO= b&c | a0&c | a0&b;
 assign DIFF=a^b^c;
 endmodule
 */
+```
 
 **RTL Schematic**
 ![Screenshot 2024-03-19 143429](https://github.com/GURUMUR/FULL_ADDER_SUBTRACTOR/assets/144895197/3fcd4db2-1d86-4fff-90cf-2aefe6bbba06)
