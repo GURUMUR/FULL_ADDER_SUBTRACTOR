@@ -72,11 +72,12 @@ endmodule
 ```
 
 **RTL Schematic**
+
 ![Screenshot 2024-03-19 143429](https://github.com/GURUMUR/FULL_ADDER_SUBTRACTOR/assets/144895197/3fcd4db2-1d86-4fff-90cf-2aefe6bbba06)
 
 
 **Output Timing Waveform**
-![Screenshot 2024-03-19 143429](https://github.com/GURUMUR/FULL_ADDER_SUBTRACTOR/assets/144895197/486ad393-8b3b-4b60-896e-6fbacb544fdd)
+![Screenshot 2024-03-19 142321](https://github.com/GURUMUR/FULL_ADDER_SUBTRACTOR/assets/144895197/6e5df8d4-7e37-475c-890e-ccbe7275c826)
 
 **Result:**
 
